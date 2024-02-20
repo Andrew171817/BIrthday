@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(32, 26, 26);
+    
+}
+
+.container{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+video{
+    max-width: 100%;
+}
+
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+h3{
+    color: whitesmoke;
+}
